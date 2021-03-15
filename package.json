@@ -1,0 +1,15 @@
+{
+  "name": "kotsovolos-price-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
